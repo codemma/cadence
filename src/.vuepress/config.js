@@ -149,6 +149,7 @@ module.exports = {
             '04-java-client/06-implementing-activities',
             '04-java-client/07-versioning',
             '04-java-client/08-distributed-cron',
+            '04-java-client/09-java-samples',
           ],
         },
         {
