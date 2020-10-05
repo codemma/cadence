@@ -1,12 +1,15 @@
 ---
 layout: default
 title: Java samples
+pageClass: custom-width
 permalink: /docs/java-client/java-samples
 ---
 
 # Java samples
 
 On this page java samples and code will be displayed
+
+## Hello Activity
 
 ```java
 public class HelloActivity {
@@ -74,4 +77,4 @@ public class HelloActivity {
 }
 ```
 
-<iframe width="100%" height="800px" src="https://codemma.github.io/cadenceDecisionTree/" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="800px" src="https://codemma.github.io/cadenceDecisionTree/#/tree/524629a5-f63e-47b0-a7b1-5e74304d9da3" frameborder="0" allowfullscreen></iframe>
