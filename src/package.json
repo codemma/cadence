@@ -9,7 +9,7 @@
     "clean": "rm -rf ../assets ../docs ../img ../404.html ../GLOSSARY.html ../index.html ../CNAME",
     "copy-build": "cp -r .vuepress/dist/. ../",
     "copy-cname": "cp CNAME ../",
-    "postbuild": "npm run copy-build && npm run copy-cname",
+    "postbuild": "npm run copy-build",
     "start": "vuepress dev"
   },
   "dependencies": {
