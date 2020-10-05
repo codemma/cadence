@@ -1,0 +1,17 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/Users/etysk/.nvm/v0.10.32/bin/npm', 'run', 'build' ]
+2 info using npm@2.14.2
+3 info using node@v0.10.32
+4 verbose stack Error: ENOENT, open '/Users/etysk/Documents/cadence.io/cadence/package.json'
+5 verbose cwd /Users/etysk/Documents/cadence.io/cadence
+6 error Darwin 19.6.0
+7 error argv "node" "/Users/etysk/.nvm/v0.10.32/bin/npm" "run" "build"
+8 error node v0.10.32
+9 error npm  v2.14.2
+10 error path /Users/etysk/Documents/cadence.io/cadence/package.json
+11 error code ENOENT
+12 error errno 34
+13 error enoent ENOENT, open '/Users/etysk/Documents/cadence.io/cadence/package.json'
+13 error enoent This is most likely not a problem with npm itself
+13 error enoent and is related to npm not being able to find a file.
+14 verbose exit [ 34, true ]
