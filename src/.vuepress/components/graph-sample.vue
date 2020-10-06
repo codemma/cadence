@@ -69,7 +69,7 @@
     <div class="graph">
       <iframe
         width="100%"
-        height="800px"
+        height="100%"
         src="https://codemma.github.io/cadenceDecisionTree/#/tree/524629a5-f63e-47b0-a7b1-5e74304d9da3"
         frameborder="0"
         allowfullscreen
