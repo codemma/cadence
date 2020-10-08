@@ -70,7 +70,7 @@
       <iframe
         width="100%"
         height="100%"
-        src="https://codemma.github.io/cadenceDecisionTree/#/tree/524629a5-f63e-47b0-a7b1-5e74304d9da3"
+        src="https://codemma.github.io/cadenceDecisionTree/#/tree/957bad90-9c99-4afb-8ccc-0e550a439a60"
         frameborder="0"
         allowfullscreen
       ></iframe>
@@ -102,7 +102,7 @@ export default {
 }
 .graph {
   flex: 1;
-  margin-left: 10px;
+  margin-left: 0.85rem;
 }
 .graph-code {
   flex: 1;
